@@ -1,0 +1,21 @@
+{
+  "name": "variant-dark",
+  "displayName": "Variant Dark",
+  "description": "Just another modified variant of common dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Variant Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Variant Dark-color-theme.json"
+      }
+    ]
+  }
+}
